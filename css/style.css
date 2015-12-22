@@ -1,0 +1,141 @@
+/* Custom Stylesheet */
+/*
+ * One nice thing custom css
+ *
+
+ */
+
+nav ul a,
+nav .brand-logo {
+
+  color: black;
+  margin-top: 20px;
+  
+
+}
+
+.home-help-block{
+  margin-left: 100px;
+}
+
+.profile-tab-menu{
+   margin-top: 100px
+   color:green;
+
+   
+
+
+}
+
+
+
+
+.home-signuo-block{
+  margin-top: 40px;
+}
+
+.home-banner{
+  margin-top: 100px;
+}
+
+.home-bottom{
+  margin-top: 10px;
+}
+
+.home-bottom img {
+  margin-top: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.home-banner h5 b { 
+  color: green;
+}
+
+
+footer.page-footer {
+  margin: 0;
+}
+
+
+
+/*Modal*/
+
+@media (min-width: 680px) {
+  #modal-add{
+
+      width: 50%; 
+      height: 70%; 
+      top: 5%; 
+      left: 5%; 
+      right: 5%; 
+      bottom: 5%; 
+  }
+
+ #modal-add h5  { 
+  color: green;
+}
+
+  #modal-register{
+
+    width: 30%; 
+    height: 70%; 
+    top: 5%; 
+    left: 5%; 
+    right: 5%; 
+    bottom: 5%;
+
+  }
+
+ #modal-register h5  { 
+  color: green;
+}
+
+  #modal-forgot{
+
+    width: 30%; 
+    height: 30%; 
+    top: 5%; 
+    left: 5%; 
+    right: 5%; 
+    bottom: 5%;
+  }
+
+#modal-forgot h5  { 
+  color: green;
+}
+
+#modal-success{
+    width: 30%; 
+    height: 30%; 
+    top: 5%; 
+    left: 5%; 
+    right: 5%; 
+    bottom: 5%;
+    
+  }
+
+#modal-success h5  { 
+  color: green;
+}
+
+#modal-error{
+
+    width: 30%; 
+    height: 30%; 
+    top: 5%; 
+    left: 5%; 
+    right: 5%; 
+    bottom: 5%;
+    
+  }
+
+#modal-error h5  { 
+  color: green;
+}
+
+
+}
+
